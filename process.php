@@ -38,8 +38,8 @@
                     <td><input type="text" name="address"></td>
                 </tr>
                 <tr>
-                    <td><input type="reset" value="Reset Data" name="reset"></td>
-                    <td><input type="submit" value="Submit Data" name="proses"></td>
+                    <td><input type="reset" value="Reset Data" name="reset" ></td>
+                    <td><input type="submit" value="Submit Data" name="proses" ></td>
                 </tr>
             </tbody>
         </table>

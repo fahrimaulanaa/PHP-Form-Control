@@ -7,3 +7,8 @@ body form{
     font-family: poppins;
     justify-items: center;
 }
+
+form table tbody tr td .input-btn{
+    font-family: poppins;
+    color: aquamarine;
+}
